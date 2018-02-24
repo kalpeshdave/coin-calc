@@ -1,0 +1,59 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/kalpesh/Documents/coin-calc/spec/coin_calc_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/home/kalpesh/Documents/coin-calc/lib/coin_calc.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        6,
+        26,
+        24,
+        null,
+        null,
+        1,
+        5,
+        4,
+        15,
+        11,
+        11,
+        null,
+        null,
+        null,
+        19,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1519449842
+  }
+}
